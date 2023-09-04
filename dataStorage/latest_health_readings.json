@@ -1,0 +1,30 @@
+[
+  {
+    "patientId": "12312",
+    "healthChanged": true,
+    "change": {
+      "from": "ORANGE",
+      "to": "RED",
+      "value": 38.4,
+      "changedOn": "2023-09-03T19:22:36.490Z"
+    }
+  },
+  {
+    "patientId": "53213",
+    "healthChanged": false,
+    "last": {
+      "status": "RED",
+      "value": 40.5,
+      "time": "2023-09-03T12:50:20.021Z"
+    }
+  },
+  {
+    "patientId": "65324",
+    "healthChanged": false,
+    "last": {
+      "status": "RED",
+      "value": 40.8,
+      "time": "2023-09-03T21:02:11.676Z"
+    }
+  }
+]

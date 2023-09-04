@@ -1,0 +1,8 @@
+ done1.Move to external file util functions.//
+done 2.Fix date sorting//
+done 3.Refactor sortByDate function//
+-different function for sort //
+-remove fs from sortByDate //
+done 4.Export static values(strings, static arrays, numbers, etc)//
+done 5.Check if consecutive ones, watch previous one 
+done 6.Adding else if change already exists//

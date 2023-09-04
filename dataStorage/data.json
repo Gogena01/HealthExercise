@@ -1,0 +1,137 @@
+[
+  {
+    "patientId": 12312,
+    "time": "2023-09-03T16:07:16.548Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": 37.4,
+      "status": "GREEN"
+    }
+  },
+  {
+    "patientId": 12312,
+    "time": "2023-09-03T20:47:19.614Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": 38.6,
+      "status": "RED"
+    }
+  },
+  {
+    "patientId": 12312,
+    "time": "2023-09-04T03:24:22.342Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": 39.9,
+      "status": "RED"
+    }
+  },
+  {
+    "patientId": 12312,
+    "time": "2023-09-03T21:27:11.538Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": 40.5,
+      "status": "RED"
+    }
+  },
+  {
+    "patientId": 12312,
+    "time": "2023-09-03T16:31:23.577Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": null,
+      "status": "GRAY"
+    }
+  },
+  {
+    "patientId": 53213,
+    "time": "2023-09-03T15:09:55.048Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": 41,
+      "status": "RED"
+    }
+  },
+  {
+    "patientId": 53213,
+    "time": "2023-09-03T13:59:54.301Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": 40,
+      "status": "RED"
+    }
+  },
+  {
+    "patientId": 53213,
+    "time": "2023-09-03T14:05:12.125Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": 35.4,
+      "status": "PURPLE"
+    }
+  },
+  {
+    "patientId": 53213,
+    "time": "2023-09-04T07:51:57.295Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": null,
+      "status": "GRAY"
+    }
+  },
+  {
+    "patientId": 53213,
+    "time": "2023-09-03T23:44:02.906Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": 35.1,
+      "status": "PURPLE"
+    }
+  },
+  {
+    "patientId": 65324,
+    "time": "2023-09-03T12:45:17.385Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": 39.8,
+      "status": "RED"
+    }
+  },
+  {
+    "patientId": 65324,
+    "time": "2023-09-04T04:29:25.211Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": 38,
+      "status": "ORANGE"
+    }
+  },
+  {
+    "patientId": 65324,
+    "time": "2023-09-03T13:19:32.643Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": null,
+      "status": "GRAY"
+    }
+  },
+  {
+    "patientId": 65324,
+    "time": "2023-09-04T03:33:08.041Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": null,
+      "status": "GRAY"
+    }
+  },
+  {
+    "patientId": 65324,
+    "time": "2023-09-03T13:57:23.104Z",
+    "type": "TEMPERATURE_SENSOR_ONSKIN",
+    "value": {
+      "temperatureC": 39.8,
+      "status": "RED"
+    }
+  }
+]
